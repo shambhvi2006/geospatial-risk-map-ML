@@ -1,4 +1,4 @@
-# SafarSuraksha – Geospatial Safety Heatmap (Folium + Leaflet)
+# SafeRoute AI — Geospatial Risk Mapping System
 
 This repository contains an interactive geospatial safety heatmap developed as part of the **SafarSuraksha** project during the Cyber AI Hackathon 2025.  
 The map highlights safe vs. unsafe zones using lightweight ML logic based on incident density and anomaly detection.
